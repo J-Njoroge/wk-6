@@ -43,3 +43,10 @@ Use a **RIGHT JOIN** to combine the **customers** table with the **orders** tabl
 ---
 
 Good luck 🚀
+
+---
+
+### Illustration
+
+<img width="1319" height="570" alt="image" src="https://github.com/user-attachments/assets/8fb07cdb-ec3f-441b-8fd0-9b507386ca85" />
+
